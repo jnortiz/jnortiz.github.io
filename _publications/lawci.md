@@ -6,5 +6,4 @@ excerpt: 'In this survey paper, we discuss properties of lattices from a cryptog
 date: 2018-07-22
 venue: 'Latin America Week on Coding and Information (LAWCI 2018)'
 paperurl: 'http://www.dev.ime.unicamp.br/lawci/index.php'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
